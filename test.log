@@ -1,0 +1,7 @@
+2026-04-08 20:21:17,479 - test_twitch_page - INFO - The test is started.
+2026-04-08 20:21:26,885 - pages.twitch_page - INFO - Twitch webside was found.
+2026-04-08 20:21:30,574 - pages.twitch_page - INFO - Search option was selected.
+2026-04-08 20:21:33,899 - pages.twitch_page - INFO - StarCraft II was selected.
+2026-04-08 20:21:55,127 - pages.twitch_page - INFO - One Stream was selected.
+2026-04-08 20:21:55,141 - root - INFO - No such option.
+2026-04-08 20:21:58,155 - test_twitch_page - INFO - The test is Finished
